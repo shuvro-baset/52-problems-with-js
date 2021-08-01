@@ -6,7 +6,7 @@ for(var i = 1000; i > 0; i--) {
     if(i !=1000 && i%5==0){
         s += "\n";
     }
-    s += i + " ";  
+    s += i + "\t";  
     } 
     console.log(s);
     
