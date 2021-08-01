@@ -1,3 +1,5 @@
+// find a number even or odd. 
+
 let num = 20
 if (num%2 == 0) {
     console.log(num, ": is a even number");
@@ -15,5 +17,3 @@ function evenOrOdd(num) { //for string length take string
     }
   }
 console.log(evenOrOdd(21))
-
-
