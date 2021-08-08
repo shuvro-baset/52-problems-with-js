@@ -1,6 +1,3 @@
-// count every letter that how many times it has been in a text. 
-
-
 // function that count character occurrence in string
 function count_occur( str )
 {
